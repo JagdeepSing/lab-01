@@ -1,3 +1,19 @@
+
+body {
+  width: 480px;
+  height: 767px;
+  margin: auto;
+}
+
 div {
   border: 2px solid black;
+  box-sizing: border-box;
+  display: table;
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    width: 960px;
+    height: 788px;
+  }
 }
