@@ -52,7 +52,47 @@
   background-color: #89CE94;
 }
 
+/* Tablet View */
 @media only screen and (min-width: 768px) {
+  #a {
+    background-color: #660000;
+  }
+
+  #b {
+    background-color: #990033;
+  }
+
+  #c {
+    background-color: #5F021F;
+  }
+  
+  #d {
+    background-color: #8C001A;
+  }
+
+  #e {
+    background-color: #FF9000;
+  }
+  
+  #f {
+    background-color: #D7CF07;
+  }
+  
+  #g {
+    background-color: #230007;
+  }
+  
+  #h {
+    background-color: #161032;
+  }
+
+  #i {
+    background-color: #01BAEF;
+  }
+}
+
+/* Desktop View */
+@media only screen and (min-width: 960px) {
   .container {
     float: left;
   }
