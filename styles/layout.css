@@ -1,5 +1,6 @@
+/* Mobile View */
 #a, #b, #c, #d, #i {
-  width: 100%;
+  width: 480px;
 }
 
 #a {
@@ -25,7 +26,7 @@
 }
 
 #e, #f, #g, #h {
-  width: 50%;
+  width: 240px;
   height: 250px;
   float: left;
 }

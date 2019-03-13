@@ -1,16 +1,18 @@
-
+/* Mobile View */
 body {
   width: 480px;
   height: 767px;
   margin: auto;
 }
 
-div {
+.container {
   border: 1px solid gray;
   box-sizing: border-box;
+  /* used to center contents */
   display: table;
 }
 
+/* Desktop View */
 @media only screen and (min-width: 960px) {
   body {
     width: 960px;
