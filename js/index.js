@@ -16,11 +16,11 @@ $(function() {
       let colorOpacity;
 
       if (width <= 768) {
-        // mobile view
+        // mobile view 
         colorOpacity = 1.0;
       } else if (width <= 960) {
         // tablet view
-        colorOpacity = 0.35;
+        colorOpacity = 0.25;
       } else {
         // desktop view
         colorOpacity = 0.05;

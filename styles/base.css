@@ -8,8 +8,6 @@ body {
 .container {
   border: 1px solid gray;
   box-sizing: border-box;
-  /* used to center contents */
-  display: table;
 }
 
 /* Desktop View */
