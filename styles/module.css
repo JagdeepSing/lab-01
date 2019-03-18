@@ -1,8 +1,9 @@
 /* Default behavior or direct children of container elements */
 .container > p {
   /* centers contents  */
-  text-align: center;
-  display: table-cell;
-  vertical-align: middle;
+  /* text-align: center; */
+  /* display: table-cell; */
+  /* vertical-align: middle; */
+  
 }
 
